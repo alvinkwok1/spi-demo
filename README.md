@@ -1,5 +1,6 @@
 # spi-demo
 对java spi机制的学习
+文章见博客https://alvinkwok.cn/2022/12/30/2022/12/Java%20SPI%E6%9C%BA%E5%88%B6/
 
 # JAR包运行
 1. 先mvn package所有包
